@@ -2,6 +2,7 @@
 Created by Atharva Upadhye
 
 Source code: `index.js`
+
 Minified/compiled js file: `build.js`
 ```
 node build.js <argument 1> <argument 2>
