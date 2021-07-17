@@ -1,7 +1,10 @@
 # copy_missing_files
 Created by Atharva Upadhye
+
+Source code: `index.js`
+Minified/compiled js file: `build.js`
 ```
-node index.js <argument 1> <argument 2>
+node build.js <argument 1> <argument 2>
 ```
 
 ```
